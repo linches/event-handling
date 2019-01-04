@@ -49,7 +49,7 @@ function four() {
 
     four.addEventListener('click', makePurple)
 
-    four.addEventListener('mouseleave', makeWhite)
+    four.addEventListener('click', makeWhite)
 
 }
 // CREATE FUNCTION two HERE
